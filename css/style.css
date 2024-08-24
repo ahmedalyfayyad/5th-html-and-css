@@ -98,12 +98,9 @@ a {
     display: none;
 }
 
-/* Hide scrollbar for IE, Edge and Firefox */
+/* Hide scrollbar for IE and Edge */
 .sushi__hide-scrollbar {
     -ms-overflow-style: none;
-    /* IE and Edge */
-    scrollbar-width: none;
-    /* Firefox */
 }
 
 /* START: about us media queries */
