@@ -108,7 +108,7 @@
     object-fit: contain;
 }
 .hero-content__testimonial{
-    padding: 32px 64px;
+    padding: 42px 64px;
 
     display: flex;
     flex-wrap: wrap;
